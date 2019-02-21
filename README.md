@@ -1,6 +1,6 @@
 # Bailer_SAS_PROGRAMMING
 
-Dr. Bailer's SAS Programming textbook implementation code
 
+This code is about text mining part for Dr. John A. Bailer's SAS Programming textbook.
 
-Reference: Tweeter text mining : [Dr. Lee's youtube channel](https://www.youtube.com/watch?v=qmCTemns0oE)
+The function of this program is scrapping text from web data in SAS.
